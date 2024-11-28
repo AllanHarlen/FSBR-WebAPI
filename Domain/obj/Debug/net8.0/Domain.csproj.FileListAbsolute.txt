@@ -1,0 +1,15 @@
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\bin\Debug\net8.0\Entities.dll
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\bin\Debug\net8.0\Entities.pdb
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\allan\Workspace\MeuGithub\FSBR-WebAPI\Domain\obj\Debug\net8.0\ref\Domain.dll

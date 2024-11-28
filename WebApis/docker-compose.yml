@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  webapis:
+    build:
+      context: ../
+      dockerfile: WebApis/Dockerfile
+    container_name: dotnet-webapis
+    ports:
+      - "7000:7000"
+      - "7001:7001"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__DefaultConnection: Server=localhost;Database=smart_info;User=root;Password=123;
+    networks:
+      - webnet 
+
+  nginx:
+    image: nginx:latest
+    container_name: nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    depends_on:
+      - webapis
+    networks:
+      - webnet 
+
+networks:
+  webnet:
+    driver: bridge

@@ -1,0 +1,44 @@
+# Arquivos de compilação gerados
+bin/
+obj/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de usuário do Visual Studio
+.vs/
+
+# Diretório de pacotes do NuGet
+packages/
+
+# Arquivos de configuração específicos do desenvolvedor
+*.user
+
+# Arquivos de histórico de versão
+VersionHistory.xml
+
+# Arquivos de backup
+*~
+
+# Arquivos de configuração de ambiente local
+launchSettings.json
+
+# Arquivos de cache e arquivos temporários do Visual Studio Code
+.vscode/
+.vscode-test/
+
+# Ignorar arquivos de configuração de IDEs comuns
+*.suo
+*.user
+*.sln.docstates
+
+# Logs do Rider
+.idea/
+*.iml
+/WebApis/Properties/PublishProfiles
+/UserAPI-DDD-TDD/WebApis/MapeamentoDocker/certificate.pfx
+/UserAPI-DDD-TDD/WebApis/MapeamentoDocker/fullchain.pem
+/UserAPI-DDD-TDD/WebApis/MapeamentoDocker/privkey.pem
