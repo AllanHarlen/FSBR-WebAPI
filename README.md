@@ -78,6 +78,7 @@ dotnet run
 ```
 
 A API estará disponível em **http://localhost:5000** (por padrão, ou conforme configurado).
+A API estará disponível em **http://localhost:5000/swagger** (por padrão, ou conforme configurado).
 
 ### **4. Testar a API**
 
@@ -88,16 +89,6 @@ Você pode testar a API usando o **Postman** ou **Swagger** (se configurado). Al
 - **PUT** `/api/Produtos/{id}`: Atualizar um produto.
 - **DELETE** `/api/Produtos/{id}`: Deletar um produto.
 - **GET** `/api/Produtos/ListarProdutos`: Listar todos os produtos.
-
-## Contribuição
-
-Se você quiser contribuir com este projeto, siga os seguintes passos:
-
-1. Fork o repositório.
-2. Crie uma branch (`git checkout -b minha-nova-feature`).
-3. Faça as alterações e commit (`git commit -am 'Adicionando nova funcionalidade'`).
-4. Envie para o repositório original (`git push origin minha-nova-feature`).
-5. Abra um pull request.
 
 ### **Licença**
 
