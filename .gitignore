@@ -42,6 +42,9 @@ launchSettings.json
 .idea/
 *.iml
 /WebApis/Properties/PublishProfiles
-/UserAPI-DDD-TDD/WebApis/MapeamentoDocker/certificate.pfx
-/UserAPI-DDD-TDD/WebApis/MapeamentoDocker/fullchain.pem
-/UserAPI-DDD-TDD/WebApis/MapeamentoDocker/privkey.pem
+/Domain/bin
+/Domain/obj
+/Entities/bin
+/Entities/obj
+/Infraestructure/bin
+/Infraestructure/obj
